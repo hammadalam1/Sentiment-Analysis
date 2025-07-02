@@ -22,10 +22,8 @@ This is a simple Python command-line tool that performs **sentiment analysis** o
 
 ## 📦 Installation
 
-1. Clone this repository or copy the code into a `.py` file:
-
-git clone https://github.com/your-username/sentiment-analysis-cli.git
-cd sentiment-analysis-cli
+git clone https://github.com/hammadalam1/Sentiment-Analysis.git
+cd Sentiment-Analysis
 
 Install NLTK and download required resources:
 pip install nltk
